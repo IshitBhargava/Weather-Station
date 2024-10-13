@@ -5,7 +5,8 @@ This a weather station which can be mounted outside to give weather data.
 
 <pre>To make this project, you need:</pre>
 **Hardware:**
-<code>1x Arduino UNO or NANO
+<code>
+1x Arduino UNO or NANO
 1x ESP8266-01 WiFi Module
 2x Photoresistors
 2x 10KΩ Resistors

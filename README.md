@@ -103,3 +103,19 @@ PIN 2: First Photo Resistor's Pin 2
 PIN 1: GND
 PIN 2: Second Photo Resistor's Pin 2
 </pre>
+
+<pre>Buzzer:
+GND: GND
+VCC: D13
+</pre>
+
+<pre>ESP8266-01
+  VCC: 3.3V
+  GND: GND
+  EN: 3.3V
+  TX: 6
+  RX: 5
+  Reset: UNUSED
+  IO1: UNUSED
+  IO2: UNUSED
+</pre>

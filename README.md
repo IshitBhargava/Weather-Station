@@ -29,3 +29,15 @@ ________________________________________________________________________________
   Line 19) Your SSID
   Line 20) Your WiFi Password
 </pre>
+<pre>To get the API key, create a new thingspeak channel with the following data:
+Field 1: Temperature
+Field 2: Humidity
+Field 3: Plant 1 Soil Water Content
+Field 4: Plant 2 Soil Water Content
+Field 5: Rainfall
+Field 6: Gas Levels
+Field 7: Light Intensity - 1
+Field 8: Light Intensity - 2
+
+Then you can copy the write API key.
+</pre>

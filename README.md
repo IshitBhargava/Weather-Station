@@ -77,9 +77,29 @@ Digital OUT: D7
 Analog OUT: A4
 </pre>
 
-<pre>Rain Sensor 1:
+<pre>Rain Sensor:
 VCC: 5V
 GND: GND
 Digital OUT: D2
 Analog OUT: A2
+</pre>
+
+<pre>Photo Resistor 1:
+PIN 1: VCC
+Pin 2: A0
+</pre>
+
+<pre>Photo Resistor 2:
+PIN 1: VCC
+Pin 2: A1
+</pre>
+
+<pre>Resistor 1:
+PIN 1: GND
+PIN 2: First Photo Resistor's Pin 2
+</pre>
+
+<pre>Resistor 2:
+PIN 1: GND
+PIN 2: Second Photo Resistor's Pin 2
 </pre>

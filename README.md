@@ -19,3 +19,13 @@ This a weather station which can be mounted outside to give weather data.
 3) MIT App Inventor 2 Account</pre>
 
 *You will also need a Wifi Router*
+
+____________________________________________________________________________________
+
+# Changes to be made in files:
+
+<pre>Before uploading the code to the Arduino, replace:
+  Line 18) Your Channel's Write API key
+  Line 19) Your SSID
+  Line 20) Your WiFi Password
+</pre>

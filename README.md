@@ -50,12 +50,34 @@ ________________________________________________________________________________
 
 # Hardware Connections:
 
-<pre> DHT11:
+<pre>DHT11:
 VCC: 5V
 GND: GND
 Data: D2
 </pre>
+
 <pre>MQ-135:
+VCC: 5V
+GND: GND
+Digital OUT: D4
+Analog OUT: A3
+</pre>
+
+<pre>Soil Water Sensor 1:
+VCC: 5V
+GND: GND
+Digital OUT: D
+Analog OUT: A
+</pre>
+
+<pre>Soil Water Sensor 2:
+VCC: 5V
+GND: GND
+Digital OUT: D
+Analog OUT: A
+</pre>
+
+<pre>Rain Sensor 1:
 VCC: 5V
 GND: GND
 Digital OUT: D

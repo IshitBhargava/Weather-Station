@@ -41,3 +41,8 @@ Field 8: Light Intensity - 2
 
 Then you can copy the write API key.
 </pre>
+
+<pre>Also, change some parameters in the .aia file:
+1) Replace the read API key with your read API key.
+2) Replace the channel number with your channel number as well.
+</pre>

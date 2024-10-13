@@ -15,9 +15,9 @@
 #define LDR1 A0
 #define LDR2 A1
 #define Buzz 13
-String key = "4VD67LNAWH6AGP43";
-String ssid = "Rajeevhome";
-String pass = "Nitin17823";
+String key = "Your Channel's Write API key";
+String ssid = "Your WiFi Name";
+String pass = "Your Password";
 
 SoftwareSerial esp8266(TX,RX);
 dht DHT;

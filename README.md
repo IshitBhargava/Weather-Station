@@ -110,12 +110,22 @@ VCC: D13
 </pre>
 
 <pre>ESP8266-01
-  VCC: 3.3V
-  GND: GND
-  EN: 3.3V
-  TX: 6
-  RX: 5
-  Reset: UNUSED
-  IO1: UNUSED
-  IO2: UNUSED
+VCC: 3.3V
+GND: GND
+EN: 3.3V
+TX: 6
+RX: 5
+Reset: UNUSED
+IO1: UNUSED
+IO2: UNUSED
+</pre>
+
+_________________________________________________________________________________
+
+# Start and Run it:
+
+<pre> First, upload the edited Arduino Code. For the first time, you can see the Serial Monitor. Normally, it will show messages such as:
+"Wifi Connected"
+"Wifi Got IP"
+Also, note that it is normal for the buzzer to beep during startup. In every ~20 Seconds, it will send a reading to the Thingspeak Server. You should be able to see the reading on the Channel. 
 </pre>

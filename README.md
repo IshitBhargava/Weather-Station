@@ -46,3 +46,18 @@ Then you can copy the write API key.
 1) Replace the read API key with your read API key.
 2) Replace the channel number with your channel number as well.
 </pre>
+_________________________________________________________________________________________
+
+# Hardware Connections:
+
+<pre> DHT11:
+VCC: 5V
+GND: GND
+Data: D2
+</pre>
+<pre>MQ-135:
+VCC: 5V
+GND: GND
+Digital OUT: D
+Analog OUT: A
+</pre>

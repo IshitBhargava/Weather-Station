@@ -66,20 +66,20 @@ Analog OUT: A3
 <pre>Soil Water Sensor 1:
 VCC: 5V
 GND: GND
-Digital OUT: D
-Analog OUT: A
+Digital OUT: D12
+Analog OUT: A5
 </pre>
 
 <pre>Soil Water Sensor 2:
 VCC: 5V
 GND: GND
-Digital OUT: D
-Analog OUT: A
+Digital OUT: D7
+Analog OUT: A4
 </pre>
 
 <pre>Rain Sensor 1:
 VCC: 5V
 GND: GND
-Digital OUT: D
-Analog OUT: A
+Digital OUT: D2
+Analog OUT: A2
 </pre>

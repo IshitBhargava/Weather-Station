@@ -127,5 +127,8 @@ ________________________________________________________________________________
 <pre> First, upload the edited Arduino Code. For the first time, you can see the Serial Monitor. Normally, it will show messages such as:
 "Wifi Connected"
 "Wifi Got IP"
-Also, note that it is normal for the buzzer to beep during startup. In every ~20 Seconds, it will send a reading to the Thingspeak Server. You should be able to see the reading on the Channel. 
+Also, note that it is normal for the buzzer to beep during startup. In every ~20 Seconds, it will send a reading to the Thingspeak Server. 
+You should be able to see the reading on the Channel. If this works, then you can use a external adapter with a rating of either '9V 1.2A' or '12V 1.2A'.
+To use the Mobile app, open the https://appinventor.mit.edu/ site, open your project, click on 'build', then on '.apk'. After Compiling, you will get a QR code.
+Scan this QR code on your mobile to download the app, you can use the Auto-Update feature. This will get you the values in the table.
 </pre>

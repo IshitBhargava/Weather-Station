@@ -12,5 +12,10 @@ This a weather station which can be mounted outside to give weather data.
 2x Soil Sensors (Probe and MH-Sensor Series board)
 1x Rain Sensor (MH-Sensor Series board and Detection Module)
 1x DHT11 Temperature and Humidity Sensor
-1x MQ-135 Gas Sensor
-</pre>
+1x MQ-135 Gas Sensor</pre>
+**Software:**
+<pre>1) Thingspeak Account
+2) Arduino IDE
+3) MIT App Inventor 2 Account</pre>
+
+*You will also need a Wifi Router*
